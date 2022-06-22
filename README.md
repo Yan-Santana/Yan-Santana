@@ -17,7 +17,7 @@ src="https://static.wikia.nocookie.net/glee/images/2/27/Burn_computer.gif/revisi
   <a href = "mailto:yansantana63@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yan-g-santana-8b91a5164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Yan-Santana/Yan_Santana/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Yan-Santana/Yan-Santana/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
