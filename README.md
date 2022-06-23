@@ -5,7 +5,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Santana&theme=highcontrast&hide_border=true&&layout=compact"/>
   </a> 
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Yan-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yan-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
