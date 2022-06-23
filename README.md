@@ -1,8 +1,8 @@
 ## Olá, eu sou Yan Gonçalves Santana, estudante do curso Sistemas de Informação.
 <div align="center">
   <a href="https://github.com/Yan-Santana">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yan-Santana&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_border=false&show_owner=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Santana&theme=vision-friendly-dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yan-Santana&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=true&show_owner=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Santana&theme=highcontrast&hide_border=true&&layout=compact"/>
   </a> 
 </div>
 <div style="display: inline_block"><br>
