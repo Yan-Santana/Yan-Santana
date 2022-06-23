@@ -11,11 +11,6 @@
 </div>
 
 ##
- 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Avatar" height="180" style="border-radius:800px;" 
-src="https://media.discordapp.net/attachments/975491344199991306/989400745440854066/download20220604010622.png?width=452&height=452">
-</div>
   
 <div>  
   <a href = "mailto:yansantana63@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,3 +19,7 @@ src="https://media.discordapp.net/attachments/975491344199991306/989400745440854
 ![Snake animation](https://github.com/Yan-Santana/Yan-Santana/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="right" alt="Avatar" height="180" style="border-radius:800px;" 
+src="https://media.discordapp.net/attachments/975491344199991306/989215744392855552/git.gif?width=463&height=452">
+</div>
