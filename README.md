@@ -9,7 +9,7 @@
   <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
-  <img align="right" alt="Dev" height="190" style="border-radius:60px;" 
+  <img align="right" alt="Avatar" height="180" style="border-radius:800px;" 
 src="https://media.discordapp.net/attachments/975491344199991306/989400745440854066/download20220604010622.png?width=452&height=452">
 </div>
 
