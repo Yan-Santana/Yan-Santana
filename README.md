@@ -21,5 +21,5 @@
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Avatar" height="180" style="border-radius:800px;" 
-src="https://media.discordapp.net/attachments/975491344199991306/989215744392855552/git.gif?width=463&height=452">
+src="https://media.discordapp.net/attachments/975491344199991306/989672040103546970/giphy.gif">
 </div>
