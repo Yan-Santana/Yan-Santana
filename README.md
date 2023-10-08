@@ -1,26 +1,30 @@
-## Olá, eu sou Yan Gonçalves Santana, estudante do curso Sistemas de Informação na Universidade Federal de Mato Grosso do Sul.
-<div align="center">
-  <a href="https://github.com/Yan-Santana">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yan-Santana&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=true&show_owner=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Santana&theme=highcontrast&hide_border=true&&layout=compact"/>
-  </a> 
-</div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Yan-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yan-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
+## Olá eu sou o Yan G. Santana, estudante de Sistemas de Informação na UFMS!
 
-##
+<p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. </p>&nbsp;
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Avatar" height="180" style="border-radius:800px;" 
-src="https://media.discordapp.net/attachments/975491344199991306/989672040103546970/giphy.gif">
-</div>
-<div>  
-  <a href = "mailto:yansantana63@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yan-g-santana-8b91a5164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Yan-santana&theme=highcontrast&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Yan-santana&show_icons=true&theme=highcontrast&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
-![Snake animation](https://github.com/Yan-Santana/Yan-Santana/blob/output/github-contribution-grid-snake.svg)
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+&nbsp;
+&nbsp;
 
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/yan_santana63" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:contato.yansantana63@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yan-g-santana-8b91a5164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+ 
+
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
