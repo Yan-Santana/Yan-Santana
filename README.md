@@ -3,8 +3,9 @@
 <h3 align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</h3>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Yan-santana&theme=highcontrast&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Yan-santana&show_icons=true&theme=highcontrast&layout=compact" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yan-Santana&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yan-Santana&&theme=highcontrast" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yan-Santana&show_icons=true&locale=en&theme=highcontrast" alt="rishavchanda" /></p>
 </div>
 
  &nbsp;
