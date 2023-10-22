@@ -25,8 +25,13 @@
 <a href = "mailto:contato.yansantana63@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/yan-g-santana-8b91a5164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
 
-  
-  
+<br><br>
+<br><br>
+
+
+<div align="center">
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Yan-Santana-Cn}/count.svg" /></p> 
+<br></div>  
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
