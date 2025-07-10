@@ -3,16 +3,17 @@
 <h3 align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</h3>
 
 <div  align="center" style="margin-bottom:100px">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yan-Santana&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="rishavchanda" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yan-Santana&&theme=highcontrast" alt="rishavchanda" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yan-Santana&show_icons=true&locale=en&theme=highcontrast" alt="rishavchanda" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Yan-Santana&&theme=highcontrast" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Yan-Santana&show_icons=true&locale=en&theme=highcontrast" alt="rishavchanda" /></p>
 </div>
+<br><br>
+<br><br>
+<br><br>
 
  &nbsp;
  &nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 &nbsp;
 &nbsp;
@@ -26,12 +27,7 @@
 <a href="https://www.linkedin.com/in/yan-g-santana-8b91a5164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-<br><br>
-<br><br>
 
 
-<div align="center">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Yan-Santana-Cn}/count.svg" /></p> 
-<br></div>  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
