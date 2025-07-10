@@ -7,8 +7,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yan-Santana&show_icons=true&locale=en&theme=highcontrast" alt="rishavchanda" /></p>
 </div>
 <br><br>
-<br><br>
-<br><br>
+
 
  &nbsp;
  &nbsp;
