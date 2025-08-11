@@ -50,6 +50,7 @@
 
 ###
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yan-Santana/Yan-Santana/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yan-Santana/Yan-Santana/output/pacman-contribution-graph.svg">
@@ -57,3 +58,5 @@
 </picture>
 
 ###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Yan-Santana.Yan-Santana&right_color=blue"  />
